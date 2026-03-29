@@ -172,3 +172,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 > ⭐ If you found this project helpful, please consider giving it a star!
+force rebuild
